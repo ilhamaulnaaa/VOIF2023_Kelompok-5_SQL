@@ -10,13 +10,13 @@ Repositori ini digunakan untuk mengorganisir, menyimpan, dan membagikan informas
 3. c
 
 ### Algoritma dan Flowchart
-1. a
-2. b
-3. c
+1. Zahra ismaya
+2. Ripan Putra
+3. Guna Fathalla
 
 ### Desain dan Prototype
 1. Abdulhadi
-2. b
-3. c
-4. d
+2. Ilham Maulana
+3. Muhammad Faiz Bintang Pratama
+4. Andi
    
